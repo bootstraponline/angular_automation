@@ -15,7 +15,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = %w(lib)
 
   spec.add_runtime_dependency 'rspec_flake', '>= 0.2.2'
-  spec.add_runtime_dependency 'rspec_junit', '>= 2.0.0'
+  spec.add_runtime_dependency 'rspec_junit', '>= 2.0.1'
   spec.add_runtime_dependency 'angular_page_object', '>= 0.0.2'
   spec.add_runtime_dependency 'page_object_stubs', '>= 0.0.1'
   spec.add_runtime_dependency 'sauce_ruby', '>= 3.5.6'

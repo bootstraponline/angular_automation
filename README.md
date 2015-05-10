@@ -22,6 +22,8 @@ The angular_page_object gem depends on:
 - [selenium-webdriver](https://rubygems.org/gems/selenium-webdriver) - upstream selenium webdriver gem
 - [watir-webdriver](https://github.com/watir/watir-webdriver) - watir framework built on top of webdriver
 
+The rspec_junit gem depends on rspec.
+
 #### Use
 
 - `require 'angular_automation'`
