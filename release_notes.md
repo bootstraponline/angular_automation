@@ -1,3 +1,9 @@
+#### v0.0.5 2015-05-10
+
+- [e0b2ca3](https://github.com/bootstraponline/angular_automation/commit/e0b2ca33e81e0ce18c630b52d476b5e29aad33a8) Release 0.0.5
+- [3c83998](https://github.com/bootstraponline/angular_automation/commit/3c83998054c7ef97f0c4ee4c27de9a20578a07be) Update trace_files
+
+
 #### v0.0.4 2015-05-10
 
 - [2ff78fe](https://github.com/bootstraponline/angular_automation/commit/2ff78fede63170ac41cf83212962d1ed61d57d79) Release 0.0.4
