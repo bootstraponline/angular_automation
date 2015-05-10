@@ -1,3 +1,9 @@
+#### v0.0.3 2015-05-10
+
+- [f67664e](https://github.com/bootstraponline/angular_automation/commit/f67664e4639f5d1a6930ea029c1589b5dd3fc162) Release 0.0.3
+- [3627fae](https://github.com/bootstraponline/angular_automation/commit/3627fae2fc3a56a9734469775e0e32abc2f58fc2) Add pry
+
+
 #### v0.0.2 2015-05-10
 
 - [cc7de7c](https://github.com/bootstraponline/angular_automation/commit/cc7de7c1bdfb98da3dfc04ab65157c6fe6e8edfd) Release 0.0.2
