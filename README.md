@@ -14,6 +14,15 @@ Gem | Description
 [**sauce_ruby**](https://github.com/bootstraponline/sauce_ruby) | sauce labs gem with bug fixes
 [**trace_files**](https://github.com/bootstraponline/trace_files)  | tracing gem used for debugging
 [**pry**](https://github.com/pry/pry) | pry is used for debugging
+[**rake**](https://github.com/ruby/rake) | rake is used for sauce tasks and the stub generation task
+[**sauce-connect**](https://github.com/saucelabs/sauce_ruby/tree/master/gems/sauce-connect) | sauce connect is used for running locally (outside of jenkins)
+
+Note that the Sauce Connect gem should be avoided at all cost due to
+bugs such as [crashing](https://github.com/saucelabs/sauce_ruby/issues/317),
+[infinite looping](https://github.com/saucelabs/sauce_ruby/issues/316), and
+[creating multiple processes](https://github.com/saucelabs/sauce_ruby/issues/318).
+The recommended way is to use the Sauce Jenkins plugin to fully handle
+the SC lifecycle and avoid the broken Ruby sauce connect code.
 
 The angular_page_object gem depends on:
 
