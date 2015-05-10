@@ -1,3 +1,9 @@
+#### v0.0.9 2015-05-10
+
+- [bc58af6](https://github.com/bootstraponline/angular_automation/commit/bc58af63de9c88aed386d86d98429c69f040c217) Release 0.0.9
+- [1dbb648](https://github.com/bootstraponline/angular_automation/commit/1dbb6483b2fb2c91b1c7523a3645c1e3dae2ea4e) Update webdriver_utils
+
+
 #### v0.0.8 2015-05-10
 
 - [1854410](https://github.com/bootstraponline/angular_automation/commit/1854410b1484e18e7bd0396157cdc6257d2e2962) Release 0.0.8
