@@ -1,3 +1,9 @@
+#### v0.0.4 2015-05-10
+
+- [2ff78fe](https://github.com/bootstraponline/angular_automation/commit/2ff78fede63170ac41cf83212962d1ed61d57d79) Release 0.0.4
+- [b9466d6](https://github.com/bootstraponline/angular_automation/commit/b9466d6176da1bb2bcb613797ff9b923f049a0d2) Add rake & sauce-connect
+
+
 #### v0.0.3 2015-05-10
 
 - [f67664e](https://github.com/bootstraponline/angular_automation/commit/f67664e4639f5d1a6930ea029c1589b5dd3fc162) Release 0.0.3
