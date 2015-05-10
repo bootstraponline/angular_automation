@@ -1,3 +1,9 @@
+#### v0.0.7 2015-05-10
+
+- [ab56ffb](https://github.com/bootstraponline/angular_automation/commit/ab56ffbf03fe40c26e45270d35635370113482b2) Release 0.0.7
+- [529a72a](https://github.com/bootstraponline/angular_automation/commit/529a72a0588b47af973f61561c4bf12899afb4c0) Require pry & rspec by default
+
+
 #### v0.0.6 2015-05-10
 
 - [1f174d0](https://github.com/bootstraponline/angular_automation/commit/1f174d08431ef63935e7a05837c7a2b0df62eaf2) Release 0.0.6
