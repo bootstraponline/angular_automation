@@ -5,6 +5,8 @@ require 'angular_page_object'
 require 'page_object_stubs'
 require 'sauce' # sauce_ruby
 require 'trace_files'
+require 'pry'
+require 'rspec'
 
 # internal
 require_relative 'angular_automation/version'
