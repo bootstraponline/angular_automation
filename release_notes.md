@@ -1,3 +1,9 @@
+#### v0.0.6 2015-05-10
+
+- [1f174d0](https://github.com/bootstraponline/angular_automation/commit/1f174d08431ef63935e7a05837c7a2b0df62eaf2) Release 0.0.6
+- [e10c7d2](https://github.com/bootstraponline/angular_automation/commit/e10c7d231697f69c096f06f82f91df1b89419b8c) Update page_object_stubs
+
+
 #### v0.0.5 2015-05-10
 
 - [e0b2ca3](https://github.com/bootstraponline/angular_automation/commit/e0b2ca33e81e0ce18c630b52d476b5e29aad33a8) Release 0.0.5
