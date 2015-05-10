@@ -1,4 +1,4 @@
-# Angular Automation
+# Angular Automation [![Gem Version](https://badge.fury.io/rb/angular_automation.svg)](https://rubygems.org/gems/angular_automation) [![Dependency Status](https://gemnasium.com/bootstraponline/angular_automation.svg)](https://gemnasium.com/bootstraponline/angular_automation)
 
 Angular automation is a collection of gems for webdriver automation.
 The angular_automation gem only refers to other gems, it doesn't provide
