@@ -6,7 +6,7 @@ any features by itself.
 
 
 Gem | Description
- -- | --
+--- | ---
 **rspec_flake**         | measure test flakiness and performance.
 **rspec_junit**         | junit xml reporter that works with rspec_flake
 **angular_page_object** | page object gem with bug fixes and angular helpers
