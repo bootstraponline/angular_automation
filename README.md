@@ -13,7 +13,7 @@ Gem | Description
 [**page_object_stubs**](https://github.com/bootstraponline/page_object_stubs) | page object stub generator for RubyMine
 [**sauce_ruby**](https://github.com/bootstraponline/sauce_ruby) | sauce labs gem with bug fixes
 [**trace_files**](https://github.com/bootstraponline/trace_files)  | tracing gem used for debugging
-
+[**pry**](https://github.com/pry/pry) | pry is used for debugging
 
 The angular_page_object gem depends on:
 
