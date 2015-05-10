@@ -1,4 +1,5 @@
 require 'rubygems'
+require 'webdriver_utils'
 require 'rspec_flake'
 require 'yarjuf' # rspec_junit
 require 'angular_page_object'
