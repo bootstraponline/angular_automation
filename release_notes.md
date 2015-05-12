@@ -1,3 +1,8 @@
+#### v0.0.14 2015-05-12
+
+- [8bf88e4](https://github.com/bootstraponline/angular_automation/commit/8bf88e4cfbf7476c0e99e8b441a984b1e861a1bc) Release 0.0.14
+
+
 #### v0.0.13 2015-05-12
 
 - [13b347f](https://github.com/bootstraponline/angular_automation/commit/13b347fda966e465a2c0dd15cb95d1932fdd6caa) Release 0.0.13
