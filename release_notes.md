@@ -1,3 +1,9 @@
+#### v0.0.12 2015-05-11
+
+- [5990000](https://github.com/bootstraponline/angular_automation/commit/59900006b8f412cc356ab350021e1ea6b388a277) Release 0.0.12
+- [126a10f](https://github.com/bootstraponline/angular_automation/commit/126a10f6d83066725b1268cd7b7e388663c828ca) Bump angular_page_object
+
+
 #### v0.0.11 2015-05-11
 
 - [ff66897](https://github.com/bootstraponline/angular_automation/commit/ff66897834b41e32f59e961372102a1292a91f20) Release 0.0.11
