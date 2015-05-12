@@ -1,3 +1,9 @@
+#### v0.0.13 2015-05-12
+
+- [13b347f](https://github.com/bootstraponline/angular_automation/commit/13b347fda966e465a2c0dd15cb95d1932fdd6caa) Release 0.0.13
+- [22062cf](https://github.com/bootstraponline/angular_automation/commit/22062cf331abeff2e904078bf951ac6a7387b973) webdriver_utils 0.0.3 & angular_page_object 0.0.4
+
+
 #### v0.0.12 2015-05-11
 
 - [5990000](https://github.com/bootstraponline/angular_automation/commit/59900006b8f412cc356ab350021e1ea6b388a277) Release 0.0.12
