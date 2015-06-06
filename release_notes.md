@@ -1,3 +1,11 @@
+#### v0.0.15 2015-06-06
+
+- [b96cd25](https://github.com/bootstraponline/angular_automation/commit/b96cd2591f94191452746229bd09388387ff7a08) Release 0.0.15
+- [2766b54](https://github.com/bootstraponline/angular_automation/commit/2766b54d67e0fdb342ee85bac2eab772c4d63781) Update dependencies
+- [6873dfc](https://github.com/bootstraponline/angular_automation/commit/6873dfc82f98b5fb13bde930283a8e610f7b7e88) Add sauce_platforms
+- [27804b1](https://github.com/bootstraponline/angular_automation/commit/27804b12ea093d19f5f4afa2bc43ab91f154965d) Add thor to gemfile
+
+
 #### v0.0.14 2015-05-12
 
 - [8bf88e4](https://github.com/bootstraponline/angular_automation/commit/8bf88e4cfbf7476c0e99e8b441a984b1e861a1bc) Release 0.0.14
