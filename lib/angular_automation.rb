@@ -8,6 +8,7 @@ require 'sauce' # sauce_ruby
 require 'trace_files'
 require 'pry'
 require 'rspec'
+require 'angular_webdriver' # requires selenium-webdriver and watir-webdriver
 
 # internal
 require_relative 'angular_automation/version'
