@@ -16,6 +16,7 @@ Gem | Description
 [**pry**](https://github.com/pry/pry) | pry is used for debugging
 [**rake**](https://github.com/ruby/rake) | rake is used for sauce tasks and the stub generation task
 [**sauce-connect**](https://github.com/saucelabs/sauce_ruby/tree/master/gems/sauce-connect) | sauce connect is used for running locally (outside of jenkins)
+[**sauce_platforms**](https://github.com/bootstraponline/sauce_platforms) | Dependency free DSL for specifying [Sauce Labs platforms](https://saucelabs.com/platforms/)
 
 Note that the Sauce Connect gem should be avoided at all cost due to
 bugs such as [crashing](https://github.com/saucelabs/sauce_ruby/issues/317),
