@@ -10,6 +10,7 @@ Gem | Description
 [**rspec_flake**](https://github.com/bootstraponline/rspec_flake) | measure test flakiness and performance.
 [**rspec_junit**](https://github.com/bootstraponline/rspec_junit) | junit xml reporter that works with rspec_flake
 [**angular_page_object**](https://github.com/bootstraponline/angular_page_object) | page object gem with bug fixes and angular helpers
+[**angular_webdriver**](https://github.com/bootstraponline/angular_webdriver) | Protractor client side scripts integrated with Ruby webdriver
 [**page_object_stubs**](https://github.com/bootstraponline/page_object_stubs) | page object stub generator for RubyMine
 [**sauce_ruby**](https://github.com/bootstraponline/sauce_ruby) | sauce labs gem with bug fixes
 [**trace_files**](https://github.com/bootstraponline/trace_files)  | tracing gem used for debugging
@@ -27,7 +28,6 @@ the SC lifecycle and avoid the broken Ruby sauce connect code.
 
 The angular_page_object gem depends on:
 
-- [angular_webdriver](https://github.com/bootstraponline/angular_webdriver) - Protractor client side scripts integrated with Ruby webdriver
 - [page-object](https://github.com/cheezy/page-object) - page object gem
 - [selenium-webdriver](https://rubygems.org/gems/selenium-webdriver) - upstream selenium webdriver gem
 - [watir-webdriver](https://github.com/watir/watir-webdriver) - watir framework built on top of webdriver
