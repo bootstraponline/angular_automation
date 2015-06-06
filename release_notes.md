@@ -1,3 +1,9 @@
+#### v0.0.18 2015-06-06
+
+- [d1b14c2](https://github.com/bootstraponline/angular_automation/commit/d1b14c2bcf9a41f5b47527b51362d811891611e6) Release 0.0.18
+- [2ab71af](https://github.com/bootstraponline/angular_automation/commit/2ab71affa161fb8422d655c3af6024511f9ec7b9) Update sauce_platforms to 1.0.0
+
+
 #### v0.0.17 2015-06-06
 
 - [221b8c0](https://github.com/bootstraponline/angular_automation/commit/221b8c09ee7696fca8107fb106f0e464f7542c96) Release 0.0.17
