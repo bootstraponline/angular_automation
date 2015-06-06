@@ -26,7 +26,7 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency 'pry', '>= 0.10.1'
   spec.add_runtime_dependency 'rake', '>= 10.4.2'
   spec.add_runtime_dependency 'sauce-connect', '>= 3.6.0'
-  spec.add_runtime_dependency 'sauce_platforms', '>= 0.0.2'
+  spec.add_runtime_dependency 'sauce_platforms', '>= 1.0.0'
 
   spec.add_development_dependency 'bundler', '>= 1.9.6'
   spec.add_development_dependency 'appium_thor', '>= 0.0.7'
