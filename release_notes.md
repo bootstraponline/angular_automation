@@ -1,3 +1,9 @@
+#### v0.0.22 2015-06-07
+
+- [23f5712](https://github.com/bootstraponline/angular_automation/commit/23f5712c6216293f136e514580d3654b4f346610) Release 0.0.22
+- [6964dd7](https://github.com/bootstraponline/angular_automation/commit/6964dd70732c123c299b46537e3bf9b33cb611fd) Update angular_webdriver to 1.0.2
+
+
 #### v0.0.21 2015-06-07
 
 - [353f262](https://github.com/bootstraponline/angular_automation/commit/353f262deed5fe2eb255d53eecedb79d2793cdf8) Release 0.0.21
