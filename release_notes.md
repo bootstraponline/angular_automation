@@ -1,3 +1,9 @@
+#### v0.0.21 2015-06-07
+
+- [353f262](https://github.com/bootstraponline/angular_automation/commit/353f262deed5fe2eb255d53eecedb79d2793cdf8) Release 0.0.21
+- [95a9e41](https://github.com/bootstraponline/angular_automation/commit/95a9e41265ba0c4e494c47585ca1f52cc247b5cc) Use angular_webdriver 1.0.1
+
+
 #### v0.0.20 2015-06-06
 
 - [37ef254](https://github.com/bootstraponline/angular_automation/commit/37ef2548a334a0ed56de469ec432b916482eea1e) Release 0.0.20
