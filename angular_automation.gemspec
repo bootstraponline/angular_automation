@@ -17,17 +17,17 @@ Gem::Specification.new do |spec|
   # brings in selenium-webdriver, watir-webdriver, webdriver_utils
   spec.add_runtime_dependency 'angular_webdriver', '>= 1.0.4'
 
-  spec.add_runtime_dependency 'rspec_flake', '>= 0.2.2'
-  spec.add_runtime_dependency 'rspec_junit', '>= 2.0.1'
-  spec.add_runtime_dependency 'angular_page_object', '>= 1.0.0'
+  spec.add_runtime_dependency 'rspec_flake', '>= 0.2.3'
+  spec.add_runtime_dependency 'rspec_junit', '>= 3.0.0'
+  spec.add_runtime_dependency 'angular_page_object', '>= 1.0.1'
   spec.add_runtime_dependency 'page_object_stubs', '>= 1.0.0'
-  spec.add_runtime_dependency 'sauce_ruby', '>= 3.5.8'
-  spec.add_runtime_dependency 'trace_files', '>= 0.0.2'
+  spec.add_runtime_dependency 'sauce_ruby', '>= 3.5.10'
+  spec.add_runtime_dependency 'trace_files', '>= 1.0.0'
   spec.add_runtime_dependency 'pry', '>= 0.10.1'
   spec.add_runtime_dependency 'rake', '>= 10.4.2'
   spec.add_runtime_dependency 'sauce-connect', '>= 3.6.0'
-  spec.add_runtime_dependency 'sauce_platforms', '>= 1.0.0'
+  spec.add_runtime_dependency 'sauce_platforms', '>= 1.0.1'
 
-  spec.add_development_dependency 'bundler', '>= 1.9.6'
+  spec.add_development_dependency 'bundler', '>= 1.10.4'
   spec.add_development_dependency 'appium_thor', '>= 0.0.7'
 end

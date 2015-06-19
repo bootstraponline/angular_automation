@@ -16,6 +16,7 @@ Gem | Description
 [**trace_files**](https://github.com/bootstraponline/trace_files)  | tracing gem used for debugging
 [**pry**](https://github.com/pry/pry) | pry is used for debugging
 [**rake**](https://github.com/ruby/rake) | rake is used for sauce tasks and the stub generation task
+[**page_object**](https://github.com/bootstraponline/page_object) | fork of the page-object gem with bug fixes and code coverage
 [**sauce-connect**](https://github.com/saucelabs/sauce_ruby/tree/master/gems/sauce-connect) | sauce connect is used for running locally (outside of jenkins)
 [**sauce_platforms**](https://github.com/bootstraponline/sauce_platforms) | Dependency free DSL for specifying [Sauce Labs platforms](https://saucelabs.com/platforms/)
 [**sauce_connect_ruby**](https://github.com/bootstraponline/sauce_connect_ruby) | Ruby example that uses all the angular_automation gems
@@ -29,7 +30,7 @@ the SC lifecycle and avoid the broken Ruby sauce connect code.
 
 The angular_page_object gem depends on:
 
-- [page-object](https://github.com/cheezy/page-object) - page object gem
+- [page_object](https://github.com/bootstraponline/page_object) - page object gem
 - [selenium-webdriver](https://rubygems.org/gems/selenium-webdriver) - upstream selenium webdriver gem
 - [watir-webdriver](https://github.com/watir/watir-webdriver) - watir framework built on top of webdriver
 
