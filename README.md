@@ -17,6 +17,7 @@ Gem | Description
 [**pry**](https://github.com/pry/pry) | pry is used for debugging
 [**rake**](https://github.com/ruby/rake) | rake is used for sauce tasks and the stub generation task
 [**page_object**](https://github.com/bootstraponline/page_object) | fork of the page-object gem with bug fixes and code coverage
+[**webdriver_utils**](https://github.com/bootstraponline/webdriver_utils) | util methods for webdriver such as waiting and page object helpers
 [**sauce-connect**](https://github.com/saucelabs/sauce_ruby/tree/master/gems/sauce-connect) | sauce connect is used for running locally (outside of jenkins)
 [**sauce_platforms**](https://github.com/bootstraponline/sauce_platforms) | Dependency free DSL for specifying [Sauce Labs platforms](https://saucelabs.com/platforms/)
 [**sauce_connect_ruby**](https://github.com/bootstraponline/sauce_connect_ruby) | Ruby example that uses all the angular_automation gems
