@@ -1,7 +1,7 @@
 require 'rubygems'
 
 require 'rspec_flake'
-require 'yarjuf' # rspec_junit
+require 'rspec_junit'
 require 'angular_page_object'
 require 'angular_webdriver' # requires selenium-webdriver and watir-webdriver
 require 'page_object_stubs'
