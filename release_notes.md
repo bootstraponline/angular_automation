@@ -1,3 +1,9 @@
+#### v1.0.1 2015-06-19
+
+- [75754f5](https://github.com/bootstraponline/angular_automation/commit/75754f5d7b8a98cb71e9cac78140e6c6af368471) Release 1.0.1
+- [6c3566a](https://github.com/bootstraponline/angular_automation/commit/6c3566a97b503979945b299c4f23905774f8942d) Fix rspec_junit require
+
+
 #### v1.0.0 2015-06-19
 
 - [efd8fbd](https://github.com/bootstraponline/angular_automation/commit/efd8fbd532b7540d75a698d3568bfd5bec126914) Release 1.0.0
