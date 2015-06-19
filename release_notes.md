@@ -1,3 +1,10 @@
+#### v1.0.0 2015-06-19
+
+- [efd8fbd](https://github.com/bootstraponline/angular_automation/commit/efd8fbd532b7540d75a698d3568bfd5bec126914) Release 1.0.0
+- [1bb84df](https://github.com/bootstraponline/angular_automation/commit/1bb84dfabaf560035b04d8aa45b534bcde7f4930) Update dependencies
+- [21b0be2](https://github.com/bootstraponline/angular_automation/commit/21b0be253f8ac27773ccc0d7f05ac781bd6bec40) Link to sauce connect ruby
+
+
 #### v0.0.24 2015-06-07
 
 - [b6c07c9](https://github.com/bootstraponline/angular_automation/commit/b6c07c9c899b1e944b58f8dedab3850313679fe6) Release 0.0.24
