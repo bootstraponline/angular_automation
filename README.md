@@ -9,7 +9,6 @@ Gem | Description
 --- | ---
 [**rspec_flake**](https://github.com/bootstraponline/rspec_flake) | measure test flakiness and performance.
 [**rspec_junit**](https://github.com/bootstraponline/rspec_junit) | junit xml reporter that works with rspec_flake
-[**angular_page_object**](https://github.com/bootstraponline/angular_page_object) | page object gem with bug fixes and angular helpers
 [**angular_webdriver**](https://github.com/bootstraponline/angular_webdriver) | Protractor client side scripts integrated with Ruby webdriver
 [**page_object_stubs**](https://github.com/bootstraponline/page_object_stubs) | page object stub generator for RubyMine
 [**sauce_ruby**](https://github.com/bootstraponline/sauce_ruby) | sauce labs gem with bug fixes
@@ -22,6 +21,11 @@ Gem | Description
 [**sauce_platforms**](https://github.com/bootstraponline/sauce_platforms) | Dependency free DSL for specifying [Sauce Labs platforms](https://saucelabs.com/platforms/)
 [**sauce_connect_ruby**](https://github.com/bootstraponline/sauce_connect_ruby) | Ruby example that uses all the angular_automation gems
 
+Other gems used:
+
+- [selenium-webdriver](https://rubygems.org/gems/selenium-webdriver) - upstream selenium webdriver gem
+- [watir-webdriver](https://github.com/watir/watir-webdriver) - watir framework built on top of webdriver
+
 Note that the Sauce Connect gem should be avoided at all cost due to
 bugs such as [crashing](https://github.com/saucelabs/sauce_ruby/issues/317),
 [infinite looping](https://github.com/saucelabs/sauce_ruby/issues/316), and
@@ -29,11 +33,6 @@ bugs such as [crashing](https://github.com/saucelabs/sauce_ruby/issues/317),
 The recommended way is to use the Sauce Jenkins plugin to fully handle
 the SC lifecycle and avoid the broken Ruby sauce connect code.
 
-The angular_page_object gem depends on:
-
-- [page_object](https://github.com/bootstraponline/page_object) - page object gem
-- [selenium-webdriver](https://rubygems.org/gems/selenium-webdriver) - upstream selenium webdriver gem
-- [watir-webdriver](https://github.com/watir/watir-webdriver) - watir framework built on top of webdriver
 
 The rspec_junit gem depends on rspec.
 
@@ -43,7 +42,7 @@ The rspec_junit gem depends on rspec.
 
 The general use case is:
 
-- Tests use the angular_page_object gem with stubs & sauce labs integration
+- Tests use the page_object gem with stubs & sauce labs integration
 - Setup Jenkins with Sauce OnDemand plugin to use Sauce Connect & enable reporting
   - make sure to check [`Launch Sauce Connect on Slave`](https://wiki.cloudbees.com/bin/view/DEV/Sauce%20OnDemand%20Service)
   - `Sauce OnDemand support` must be checked
