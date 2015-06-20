@@ -2,7 +2,7 @@ require 'rubygems'
 
 require 'rspec_flake'
 require 'rspec_junit'
-require 'page-object' # page_object fork
+require 'page_object'
 require 'angular_webdriver' # requires selenium-webdriver and watir-webdriver
 require 'page_object_stubs'
 require 'sauce' # sauce_ruby
