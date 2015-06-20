@@ -15,10 +15,10 @@ Gem::Specification.new do |spec|
   spec.require_paths = %w(lib)
 
   # brings in selenium-webdriver, watir-webdriver, webdriver_utils
-  spec.add_runtime_dependency 'angular_webdriver', '>= 1.0.4'
+  spec.add_runtime_dependency 'angular_webdriver', '>= 1.0.5'
 
   # make sure we're using latest webdriver_utils
-  spec.add_runtime_dependency 'webdriver_utils', '>= 1.0.0'
+  spec.add_runtime_dependency 'webdriver_utils', '>= 1.0.2'
 
   spec.add_runtime_dependency 'rspec_flake', '>= 0.2.3'
   spec.add_runtime_dependency 'rspec_junit', '>= 3.0.0'
