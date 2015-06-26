@@ -1,3 +1,9 @@
+#### v1.0.9 2015-06-26
+
+- [3e527f4](https://github.com/bootstraponline/angular_automation/commit/3e527f46f5c466a3e1aed57576a5f12130dfeb15) Release 1.0.9
+- [33e49c8](https://github.com/bootstraponline/angular_automation/commit/33e49c8d469a1beaf7761900d1d107d2b3d7b217) sauce_ruby 3.5.11
+
+
 #### v1.0.8 2015-06-26
 
 - [c324b7f](https://github.com/bootstraponline/angular_automation/commit/c324b7f5e62add6004e28424e4189221a56fc8a6) Release 1.0.8
