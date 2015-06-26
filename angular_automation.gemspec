@@ -24,7 +24,7 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency 'rspec_junit', '>= 3.0.0'
   spec.add_runtime_dependency 'page_object', '>= 1.1.3'
   spec.add_runtime_dependency 'page_object_stubs', '>= 1.0.1'
-  spec.add_runtime_dependency 'sauce_ruby', '>= 3.5.10'
+  spec.add_runtime_dependency 'sauce_ruby', '>= 3.5.11'
   spec.add_runtime_dependency 'trace_files', '>= 1.0.0'
   spec.add_runtime_dependency 'pry', '>= 0.10.1'
   spec.add_runtime_dependency 'rake', '>= 10.4.2'
