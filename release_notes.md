@@ -1,3 +1,9 @@
+#### v1.0.8 2015-06-26
+
+- [c324b7f](https://github.com/bootstraponline/angular_automation/commit/c324b7f5e62add6004e28424e4189221a56fc8a6) Release 1.0.8
+- [a815421](https://github.com/bootstraponline/angular_automation/commit/a8154216af5f0f7ae355c719971ba766d4069d34) Update sauce_connect bundler appium_thor
+
+
 #### v1.0.7 2015-06-22
 
 - [f779e8e](https://github.com/bootstraponline/angular_automation/commit/f779e8ef7a76f087329c1d16dbd507a17f5d9b9f) Release 1.0.7
