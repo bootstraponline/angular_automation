@@ -1,3 +1,9 @@
+#### v1.0.10 2015-08-20
+
+- [0fba9b7](https://github.com/bootstraponline/angular_automation/commit/0fba9b7de8db518d3f13eb290ab2b38e281c1463) Release 1.0.10
+- [b83424a](https://github.com/bootstraponline/angular_automation/commit/b83424ac89e3357afeb80b81805641f3dc9ae2da) Don't require sauce by default
+
+
 #### v1.0.9 2015-06-26
 
 - [3e527f4](https://github.com/bootstraponline/angular_automation/commit/3e527f46f5c466a3e1aed57576a5f12130dfeb15) Release 1.0.9
