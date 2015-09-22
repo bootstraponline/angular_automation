@@ -7,19 +7,20 @@ any features by itself.
 
 Gem | Description
 --- | ---
-[**rspec_flake**](https://github.com/bootstraponline/rspec_flake) | measure test flakiness and performance.
-[**rspec_junit**](https://github.com/bootstraponline/rspec_junit) | junit xml reporter that works with rspec_flake
+[**rspec_flake**](https://github.com/bootstraponline/rspec_flake) | Measure test flakiness and performance.
+[**rspec_junit**](https://github.com/bootstraponline/rspec_junit) | JUnit xml reporter that works with rspec_flake
 [**angular_webdriver**](https://github.com/bootstraponline/angular_webdriver) | Protractor client side scripts integrated with Ruby webdriver
-[**page_object_stubs**](https://github.com/bootstraponline/page_object_stubs) | page object stub generator for RubyMine
-[**sauce_ruby**](https://github.com/bootstraponline/sauce_ruby) | sauce labs gem with bug fixes
-[**trace_files**](https://github.com/bootstraponline/trace_files)  | tracing gem used for debugging
-[**pry**](https://github.com/pry/pry) | pry is used for debugging
-[**rake**](https://github.com/ruby/rake) | rake is used for sauce tasks and the stub generation task
-[**page_object**](https://github.com/bootstraponline/page_object) | fork of the page-object gem with bug fixes and code coverage
-[**webdriver_utils**](https://github.com/bootstraponline/webdriver_utils) | util methods for webdriver such as waiting and page object helpers
-[**sauce-connect**](https://github.com/saucelabs/sauce_ruby/tree/master/gems/sauce-connect) | sauce connect is used for running locally (outside of jenkins)
+[**page_object_stubs**](https://github.com/bootstraponline/page_object_stubs) | Page object stub generator for RubyMine
+[**sauce_ruby**](https://github.com/bootstraponline/sauce_ruby) | Sauce labs gem with bug fixes
+[**trace_files**](https://github.com/bootstraponline/trace_files)  | Tracing gem used for debugging
+[**pry**](https://github.com/pry/pry) | Pry is used for debugging
+[**rake**](https://github.com/ruby/rake) | Rake is used for sauce tasks and the stub generation task
+[**page_object**](https://github.com/bootstraponline/page_object) | Fork of the page-object gem with bug fixes and code coverage
+[**webdriver_utils**](https://github.com/bootstraponline/webdriver_utils) | Util methods for webdriver such as waiting and page object helpers
+[**sauce-connect**](https://github.com/saucelabs/sauce_ruby/tree/master/gems/sauce-connect) | Sauce connect is used for running locally (outside of jenkins)
 [**sauce_platforms**](https://github.com/bootstraponline/sauce_platforms) | Dependency free DSL for specifying [Sauce Labs platforms](https://saucelabs.com/platforms/)
 [**sauce_connect_ruby**](https://github.com/bootstraponline/sauce_connect_ruby) | Ruby example that uses all the angular_automation gems
+[**sauce_overage**](https://github.com/bootstraponline/sauce_overage) | Check available minutes before test execution to avoid overage charges
 
 Other gems used:
 
