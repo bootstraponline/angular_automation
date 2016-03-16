@@ -26,6 +26,9 @@ Other gems used:
 
 - [selenium-webdriver](https://rubygems.org/gems/selenium-webdriver) - upstream selenium webdriver gem
 - [watir-webdriver](https://github.com/watir/watir-webdriver) - watir framework built on top of webdriver
+- [sauce_rspec](https://github.com/bootstraponline/sauce_rspec) - sauce gem replacement
+- [rspec-retry](https://github.com/NoRedInk/rspec-retry) - used to retry failed jobs
+- [test-queue-split](https://rubygems.org/gems/test-queue-split) - used for per test parallel execution on Sauce
 
 Note that the Sauce Connect gem should be avoided at all cost due to
 bugs such as [crashing](https://github.com/saucelabs/sauce_ruby/issues/317),
